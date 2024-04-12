@@ -1,2 +1,1 @@
-# SBTS
-# Hi this is SBTS Full Code 
+# SBTS - Satellite Based Tolling System - A Project 
